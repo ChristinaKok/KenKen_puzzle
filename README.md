@@ -7,6 +7,7 @@
 - search.py , utils.py : Από https://github.com/aimacode/aima-python/tree/master <br>
 
 Εκτέλεση: <br>
+
 python3 kenken.py <br>
 
 Στην συνέχεια θα ζητηθεί από τον χρήστη να δώσει το μέγεθός του puzzle (n). Πχ αν έχει επιλεχθεί 3Χ3 τότε n = 3 <br>
