@@ -4,7 +4,7 @@
 
 Αρχεία: <br>
 - kenken.py : Υλοποίηση του προγράμματος που υλοποιεί το kenken puzzle ως CSP πρόβλημα και το λύνει με τους αλγορίθμους Backtracking (BT) και Forward Checking (FC). <br>
-- search.py , utils.py : Από https://github.com/aimacode/aima-python/tree/master <br>
+- search.py , utils.py , csp.py : Από https://github.com/aimacode/aima-python/tree/master <br>
 
 Εκτέλεση: <br>
 
